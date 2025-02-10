@@ -29,6 +29,8 @@ Ein einfaches Zeichenprogramm mit der Maus, das mit `pygame` implementiert wurde
 
 3. `pong.py`
 
+![til](assets/pong.gif)
+
 Eine einfache Implementierung des klassischen Pong-Spiels mit `pygame`. Das Spiel enthält:
 
 - Zwei automatisch oder manuell gesteuerte Paddles
@@ -40,9 +42,13 @@ Das Spiel kann mit den Tasten `W` und `S` für das linke Paddle sowie `Pfeil hoc
 
 4. `ssp.py`
 
+![til](assets/ssp.gif)
+
 Ein Programm zur Umsetzung von "Schere, Stein, Papier". Es könnte eine einfache Text-basierte oder grafische Implementierung sein, um gegen einen Computergegner zu spielen.
 
 5. `triangle.py`
+
+![til](assets/triangle.gif)
 
 Ein Skript zur Darstellung oder Berechnung von Dreiecken. Dies könnte entweder eine grafische Visualisierung oder eine mathematische Berechnung von Dreiecksparametern umfassen.
 
