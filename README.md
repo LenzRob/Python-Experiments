@@ -12,11 +12,10 @@ Die meisten Programme erfordern `pygame`:
 
 ## **Enthaltene Dateien**
 
-1. `arr_filter.py`
+### 1. `arr_filter.py`
 
 Ein Skript zur Filterung von Arrays basierend auf bestimmten Bedingungen. Es zeigt den Umgang mit Listen und bedingten Filtern in Python.
-
-2. `mousedraw.py`
+### 2. `mousedraw.py`
 
 ![til](assets/mousedraw.gif)
 
@@ -27,7 +26,7 @@ Ein einfaches Zeichenprogramm mit der Maus, das mit `pygame` implementiert wurde
 - Zufällige Farbänderung des Punkts bei Bewegung
 - Anpassung der Punktgröße mit dem Mausrad
 
-3. `pong.py`
+### 3. `pong.py`
 
 ![til](assets/pong.gif)
 
@@ -40,25 +39,25 @@ Eine einfache Implementierung des klassischen Pong-Spiels mit `pygame`. Das Spie
 
 Das Spiel kann mit den Tasten `W` und `S` für das linke Paddle sowie `Pfeil hoch` und `Pfeil runter` für das rechte Paddle gesteuert werden. Bei jedem Treffer des Balls wird dessen Geschwindigkeit leicht erhöht.
 
-4. `ssp.py`
+### 4. `ssp.py`
 
 ![til](assets/ssp.gif)
 
-Ein Programm zur Umsetzung von "Schere, Stein, Papier". Es könnte eine einfache Text-basierte oder grafische Implementierung sein, um gegen einen Computergegner zu spielen.
+`SSP` ist ein Python-Programm, das auf dem Spiel "Schere, Stein, Papier" basiert. Es verwendet die Manhatten-Distanz, um die nächstliegende einnehmbare Farbe zu ermitteln. Das Programm zeigt bewegliche Rechtecke in drei Farben (rot, grün und blau) an, die miteinander interagieren und sich basierend auf ihrer Farbe und Entfernung verändern.
 
-5. `triangle.py`
+### 5. `triangle.py`
 
 ![til](assets/triangle.gif)
 
-Ein Skript zur Darstellung oder Berechnung von Dreiecken. Dies könnte entweder eine grafische Visualisierung oder eine mathematische Berechnung von Dreiecksparametern umfassen.
+`Triangle` ist ein Python-Programm, das mit Pygame und Pygame Widgets erstellt wurde. Es zeigt Bälle, die sich in unterschiedliche Richtungen und Geschwindigkeiten bewegen. Wenn zwischen beliebigen drei Bällen ein gleichschenkliges Dreieck gebildet wird, wird dieses mit blitzartigen Linien dargestellt. Ein Schieberegler ermöglicht die Anpassung des Winkels, um verschiedene Dreiecke anzuzeigen.
 
-Nutzung
+## Nutzung
 
-Jedes Skript kann mit Python ausgeführt werden. Falls eine spezielle Bibliothek benötigt wird, sollte sie vorab installiert werden (z. B. pygame für grafische Programme).
+Jedes Skript kann mit Python ausgeführt werden. Falls eine spezielle Bibliothek benötigt wird, sollte sie vorab installiert werden (z. B. `pygame` für grafische Programme).
 
 python <filename>.py
 
-Lizenz
+### Lizenz
 
 Dieses Repository steht unter keiner spezifischen Lizenz. Die Nutzung erfolgt auf eigene Verantwortung.
 
