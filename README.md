@@ -18,6 +18,8 @@ Ein Skript zur Filterung von Arrays basierend auf bestimmten Bedingungen. Es zei
 
 2. `mousedraw.py`
 
+![til](assets/mousedraw.gif)
+
 Ein einfaches Zeichenprogramm mit der Maus, das mit `pygame` implementiert wurde. Beim Bewegen der Maus wird ein kleiner Punkt gezeichnet, dessen Farbe zufällig variiert. Das Mausrad kann verwendet werden, um die Größe des gezeichneten Punkts anzupassen.
 
 **Funktionen:**
